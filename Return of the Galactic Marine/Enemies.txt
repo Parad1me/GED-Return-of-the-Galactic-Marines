@@ -1,0 +1,3 @@
+2	// Raiders
+3	// Brutes
+4	// Fodders
